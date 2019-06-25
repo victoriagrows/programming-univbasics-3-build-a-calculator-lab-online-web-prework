@@ -24,6 +24,6 @@ end
 modulo(34, 5)
 
 def square_root(num)
- num \^ 2
+ num **
 end
 square_root(81)
